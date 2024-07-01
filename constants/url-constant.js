@@ -1,0 +1,26 @@
+const URL_CONSTANTS = {
+    getMusicDataUrl: 'http://localhost:8000/api/v1/musics/get-music-data',
+    getTrendMusicsApi: 'http://localhost:8000/api/v1/musics/get-trend-musics',
+    getSearchApi: 'http://localhost:8000/api/v1/musics/search-music',
+    getMusicDetails: 'http://localhost:8000/api/v1/musics/details',
+    getSimilarMusics: 'http://localhost:8000/api/v1/musics/similar',
+    getAccessTokenApi: "http://localhost:8000/api/v1/get-access-token",
+    convertMusic: "http://localhost:8000/api/v1/musics/convert",
+    saveMusicToDb: 'http://localhost:8000/api/v1/musics/save-music',
+    getMusicDownloadUrl: 'http://localhost:8000/api/v1/musics/download',
+    getLimitedArtists: 'http://localhost:8000/api/v1/artists/limited',
+    getAllArtists: 'http://localhost:8000/api/v1/artists/all',
+    getArtistDetails: 'http://localhost:8000/api/v1/artists/details',
+    getCreateCategory: 'http://localhost:8000/api/v1/admin/categories',
+    getUpdateCategory: 'http://localhost:8000/api/v1/admin/categories',
+    getDeleteCategory: 'http://localhost:8000/api/v1/admin/categories',
+    getChangeCategoryStatus: 'http://localhost:8000/api/v1/admin/categories/change-status',
+    getlimitedCategories: 'http://localhost:8000/api/v1/categories/limited',
+    getAllCategories: 'http://localhost:8000/api/v1/categories/all',
+    getCategory: 'http://localhost:8000/api/v1/admin/categories',
+    getCategoryDetails: 'http://localhost:8000/api/v1/categories/details',
+    getRegister: 'http://localhost:8000/api/v1/auth/register',
+    getLogout: 'http://localhost:8000/api/v1/logout',
+};
+
+export default URL_CONSTANTS;

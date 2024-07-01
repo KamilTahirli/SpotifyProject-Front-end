@@ -1,0 +1,65 @@
+{
+  "FrontPlayer": {
+    "description": "Auto imported from components/front/player.vue"
+  },
+  "FrontSearchBox": {
+    "description": "Auto imported from components/front/search_box.vue"
+  },
+  "BackCategoriesAdd": {
+    "description": "Auto imported from components/back/categories/add.vue"
+  },
+  "BackCategoriesEdit": {
+    "description": "Auto imported from components/back/categories/edit.vue"
+  },
+  "BackCategoriesList": {
+    "description": "Auto imported from components/back/categories/list.vue"
+  },
+  "FrontArtistsList": {
+    "description": "Auto imported from components/front/artists/list.vue"
+  },
+  "FrontCategoriesList": {
+    "description": "Auto imported from components/front/categories/list.vue"
+  },
+  "FrontMusicListItem": {
+    "description": "Auto imported from components/front/music-list/list-item.vue"
+  },
+  "FrontMusicList": {
+    "description": "Auto imported from components/front/music-list/list.vue"
+  },
+  "LayoutsBackFooter": {
+    "description": "Auto imported from components/layouts/back/footer.vue"
+  },
+  "LayoutsBackHeader": {
+    "description": "Auto imported from components/layouts/back/header.vue"
+  },
+  "LayoutsBackLayoutComponent": {
+    "description": "Auto imported from components/layouts/back/layoutComponent.vue"
+  },
+  "LayoutsBackLoading": {
+    "description": "Auto imported from components/layouts/back/loading.vue"
+  },
+  "LayoutsBackNavbar": {
+    "description": "Auto imported from components/layouts/back/navbar.vue"
+  },
+  "LayoutsBackSidebar": {
+    "description": "Auto imported from components/layouts/back/sidebar.vue"
+  },
+  "LayoutsFrontFooter": {
+    "description": "Auto imported from components/layouts/front/footer.vue"
+  },
+  "LayoutsFrontHeader": {
+    "description": "Auto imported from components/layouts/front/header.vue"
+  },
+  "LayoutsFrontLayoutComponent": {
+    "description": "Auto imported from components/layouts/front/layoutComponent.vue"
+  },
+  "LayoutsFrontLoading": {
+    "description": "Auto imported from components/layouts/front/loading.vue"
+  },
+  "LayoutsFrontNavbar": {
+    "description": "Auto imported from components/layouts/front/navbar.vue"
+  },
+  "LayoutsFrontSidebar": {
+    "description": "Auto imported from components/layouts/front/sidebar.vue"
+  }
+}

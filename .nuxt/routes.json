@@ -1,0 +1,80 @@
+[
+  {
+    "name": "artists",
+    "path": "/artists",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\artists\\\\index.vue",
+    "chunkName": "pages/artists/index"
+  },
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\categories\\\\index.vue",
+    "chunkName": "pages/categories/index"
+  },
+  {
+    "name": "panel",
+    "path": "/panel",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\panel\\\\index.vue",
+    "chunkName": "pages/panel/index"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\auth\\\\login\\\\index.vue",
+    "chunkName": "pages/auth/login/index"
+  },
+  {
+    "name": "auth-register",
+    "path": "/auth/register",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\auth\\\\register\\\\index.vue",
+    "chunkName": "pages/auth/register/index"
+  },
+  {
+    "name": "panel-categories",
+    "path": "/panel/categories",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\panel\\\\categories\\\\index.vue",
+    "chunkName": "pages/panel/categories/index"
+  },
+  {
+    "name": "panel-categories-add",
+    "path": "/panel/categories/add",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\panel\\\\categories\\\\add.vue",
+    "chunkName": "pages/panel/categories/add"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "panel-categories-edit-id",
+    "path": "/panel/categories/edit/:id?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\panel\\\\categories\\\\edit\\\\_id.vue",
+    "chunkName": "pages/panel/categories/edit/_id"
+  },
+  {
+    "name": "artists-slug",
+    "path": "/artists/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\artists\\\\_slug.vue",
+    "chunkName": "pages/artists/_slug"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\categories\\\\_slug.vue",
+    "chunkName": "pages/categories/_slug"
+  },
+  {
+    "name": "detail-slug",
+    "path": "/detail/:slug?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\detail\\\\_slug.vue",
+    "chunkName": "pages/detail/_slug"
+  },
+  {
+    "name": "search-query",
+    "path": "/search/:query?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\mp3axtar.top\\\\front-end-nuxt\\\\pages\\\\search\\\\_query.vue",
+    "chunkName": "pages/search/_query"
+  }
+]
